@@ -1,0 +1,406 @@
+
+
+ ETABS Ultimate 64-bit 22.5.1 Build 3923 (Analysis Build 9988/64)               
+ File: C:\Users\Fanuh.LAPTOP-E...nt\new\new123\area\floor\loading\loaded\6FF.OUT
+                                                                     
+                                                                       
+
+ 6, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            1023.912    1023.912     .000000     .000000     .000000  2.8263E+12
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     80046.420   80046.420   79884.478
+     Y     31110.522   31110.522   31378.704
+     Z     18000.000   18000.000   18000.000
+
+ 11, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            1831.493    1831.493     .000000     .000000     .000000  5.0542E+12
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     80056.209   80056.209   79884.487
+     Y     31232.421   31232.421   31378.813
+     Z     15000.000   15000.000   15000.000
+
+ 16, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            1831.493    1831.493     .000000     .000000     .000000  5.0542E+12
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     80056.209   80056.209   79884.487
+     Y     31232.421   31232.421   31378.813
+     Z     12000.000   12000.000   12000.000
+
+ 21, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            1831.493    1831.493     .000000     .000000     .000000  5.0542E+12
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     80056.209   80056.209   79884.487
+     Y     31232.421   31232.421   31378.813
+     Z      9000.000    9000.000    9000.000
+
+ 26, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            1831.493    1831.493     .000000     .000000     .000000  5.0542E+12
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     80056.209   80056.209   79884.487
+     Y     31232.421   31232.421   31378.813
+     Z      6000.000    6000.000    6000.000
+
+ 31, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            1831.493    1831.493     .000000     .000000     .000000  5.0542E+12
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     80056.209   80056.209   79884.487
+     Y     31232.421   31232.421   31378.813
+     Z      3000.000    3000.000    3000.000
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+  ~24417 TO  ~10266    A   A   A   A   A   A
+    9791 TO    4550    +   +   A   A   A   +
+    2001 TO    1157    -   -   -   -   -   -
+     440 TO     417    +   +   A   A   A   +
+  ~24416 TO  ~10201    A   A   A   A   A   A
+    9967 TO    4549    +   +   A   A   A   +
+    2192 TO    1469    -   -   -   -   -   -
+     824 TO     416    +   +   A   A   A   +
+  ~24407 TO  ~10117    A   A   A   A   A   A
+    9786 TO    4548    +   +   A   A   A   +
+    1996 TO    1468    -   -   -   -   -   -
+     805 TO     415    +   +   A   A   A   +
+  ~24398 TO  ~10121    A   A   A   A   A   A
+    9784 TO    4547    +   +   A   A   A   +
+    1994 TO    1158    -   -   -   -   -   -
+     780 TO     414    +   +   A   A   A   +
+  ~24389 TO  ~10071    A   A   A   A   A   A
+   10014 TO    4546    +   +   A   A   A   +
+    2240 TO    1156    -   -   -   -   -   -
+     779 TO     413    +   +   A   A   A   +
+  ~24372 TO  ~10022    A   A   A   A   A   A
+    9764 TO    4545    +   +   A   A   A   +
+    1974 TO    1465    -   -   -   -   -   -
+     972 TO     412    +   +   A   A   A   +
+  ~24362 TO   ~9954    A   A   A   A   A   A
+   10013 TO    4544    +   +   A   A   A   +
+    2239 TO    1464    -   -   -   -   -   -
+    1097 TO     411    +   +   A   A   A   +
+  ~24352 TO   ~9947    A   A   A   A   A   A
+    9762 TO    4543    +   +   A   A   A   +
+    1972 TO    1154    -   -   -   -   -   -
+     776 TO     410    +   +   A   A   A   +
+  ~24342 TO   ~9937    A   A   A   A   A   A
+   10012 TO    4542    +   +   A   A   A   +
+    2238 TO    1462    -   -   -   -   -   -
+    1082 TO     409    +   +   A   A   A   +
+  ~24332 TO   ~9927    A   A   A   A   A   A
+    9758 TO    4541    +   +   A   A   A   +
+    1968 TO    1461    -   -   -   -   -   -
+    1081 TO     408    +   +   A   A   A   +
+  ~24322 TO   ~9917    A   A   A   A   A   A
+   10011 TO    4540    +   +   A   A   A   +
+    2237 TO    1460    -   -   -   -   -   -
+    1080 TO     407    +   +   A   A   A   +
+  ~24312 TO   ~9907    A   A   A   A   A   A
+    9754 TO    4539    +   +   A   A   A   +
+    1964 TO    1459    -   -   -   -   -   -
+    1079 TO     406    +   +   A   A   A   +
+  ~24302 TO   ~9897    A   A   A   A   A   A
+   10010 TO    4538    +   +   A   A   A   +
+    2236 TO    1458    -   -   -   -   -   -
+    1078 TO     405    +   +   A   A   A   +
+  ~24292 TO   ~9887    A   A   A   A   A   A
+    9750 TO    4537    +   +   A   A   A   +
+    1960 TO    1457    -   -   -   -   -   -
+    1077 TO     404    +   +   A   A   A   +
+  ~24282 TO   ~9871    A   A   A   A   A   A
+   10009 TO    4536    +   +   A   A   A   +
+    2235 TO    1456    -   -   -   -   -   -
+    1076 TO     403    +   +   A   A   A   +
+  ~24272 TO   ~9824    A   A   A   A   A   A
+    9746 TO    4535    +   +   A   A   A   +
+    1956 TO    1151    -   -   -   -   -   -
+     768 TO     402    +   +   A   A   A   +
+  ~24262 TO   ~9773    A   A   A   A   A   A
+   10008 TO    4534    +   +   A   A   A   +
+    2234 TO    1454    -   -   -   -   -   -
+    1075 TO     401    +   +   A   A   A   +
+  ~24252 TO   ~9708    A   A   A   A   A   A
+    9743 TO    4533    +   +   A   A   A   +
+    1953 TO    1453    -   -   -   -   -   -
+     957 TO     400    +   +   A   A   A   +
+  ~24242 TO   ~9712    A   A   A   A   A   A
+   10007 TO    4532    +   +   A   A   A   +
+    2233 TO    1147    -   -   -   -   -   -
+     765 TO     399    +   +   A   A   A   +
+  ~24232 TO   ~9662    A   A   A   A   A   A
+    9733 TO    4531    +   +   A   A   A   +
+    1943 TO    1146    -   -   -   -   -   -
+     764 TO     398    +   +   A   A   A   +
+  ~24215 TO   ~9613    A   A   A   A   A   A
+   10006 TO    4530    +   +   A   A   A   +
+    2232 TO    1450    -   -   -   -   -   -
+     942 TO     397    +   +   A   A   A   +
+  ~24205 TO   ~9545    A   A   A   A   A   A
+    9959 TO    4529    +   +   A   A   A   +
+    2184 TO    1449    -   -   -   -   -   -
+    1060 TO     396    +   +   A   A   A   +
+  ~24195 TO   ~9538    A   A   A   A   A   A
+   10005 TO    4528    +   +   A   A   A   +
+    2231 TO    1144    -   -   -   -   -   -
+     761 TO     395    +   +   A   A   A   +
+  ~24185 TO   ~9528    A   A   A   A   A   A
+    9979 TO    4527    +   +   A   A   A   +
+    2204 TO    1447    -   -   -   -   -   -
+     647 TO     394    +   +   A   A   A   +
+  ~24175 TO   ~9518    A   A   A   A   A   A
+   10004 TO    4526    +   +   A   A   A   +
+    2230 TO    1446    -   -   -   -   -   -
+     646 TO     393    +   +   A   A   A   +
+  ~24165 TO   ~8474    A   A   A   A   A   A
+    9978 TO    4525    +   +   A   A   A   +
+    2203 TO    1445    -   -   -   -   -   -
+     645 TO     392    +   +   A   A   A   +
+  ~23343 TO   ~8464    A   A   A   A   A   A
+   10003 TO    4524    +   +   A   A   A   +
+    2229 TO    1444    -   -   -   -   -   -
+     644 TO     391    +   +   A   A   A   +
+  ~23333 TO   ~8454    A   A   A   A   A   A
+    9977 TO    4523    +   +   A   A   A   +
+    2202 TO    1443    -   -   -   -   -   -
+     643 TO     390    +   +   A   A   A   +
+  ~23323 TO   ~8444    A   A   A   A   A   A
+   10002 TO    4522    +   +   A   A   A   +
+    2228 TO    1442    -   -   -   -   -   -
+     642 TO     389    +   +   A   A   A   +
+  ~23313 TO   ~8434    A   A   A   A   A   A
+    9976 TO    4521    +   +   A   A   A   +
+    2201 TO    1441    -   -   -   -   -   -
+     641 TO     388    +   +   A   A   A   +
+  ~23303 TO   ~8424    A   A   A   A   A   A
+   10001 TO    4520    +   +   A   A   A   +
+    2227 TO    1141    -   -   -   -   -   -
+     740 TO     387    +   +   A   A   A   +
+  ~23291 TO   ~8414    A   A   A   A   A   A
+    9958 TO    4519    +   +   A   A   A   +
+    2183 TO    1439    -   -   -   -   -   -
+    1112 TO     386    +   +   A   A   A   +
+  ~23242 TO   ~8404    A   A   A   A   A   A
+   10000 TO    4518    +   +   A   A   A   +
+    2226 TO    1438    -   -   -   -   -   -
+     927 TO     385    +   +   A   A   A   +
+  ~23192 TO   ~8390    A   A   A   A   A   A
+    9702 TO    4517    +   +   A   A   A   +
+    1912 TO    1137    -   -   -   -   -   -
+     737 TO     384    +   +   A   A   A   +
+  ~22229 TO   ~8387    A   A   A   A   A   A
+    2261 TO    1682    +   +   -   -   -   +
+  ~22227 TO   ~8377    A   A   A   A   A   A
+    9999 TO    4516    +   +   A   A   A   +
+    2225 TO    1136    -   -   -   -   -   -
+     736 TO     383    +   +   A   A   A   +
+  ~23128 TO   ~8367    A   A   A   A   A   A
+    9684 TO    4515    +   +   A   A   A   +
+    1894 TO    1435    -   -   -   -   -   -
+     912 TO     382    +   +   A   A   A   +
+  ~23078 TO   ~8357    A   A   A   A   A   A
+    9998 TO    4514    +   +   A   A   A   +
+    2224 TO    1434    -   -   -   -   -   -
+    1046 TO     381    +   +   A   A   A   +
+  ~23030 TO   ~8347    A   A   A   A   A   A
+    9682 TO    4513    +   +   A   A   A   +
+    1892 TO    1134    -   -   -   -   -   -
+     733 TO     380    +   +   A   A   A   +
+  ~22965 TO   ~8337    A   A   A   A   A   A
+    9997 TO    4512    +   +   A   A   A   +
+    2223 TO    1432    -   -   -   -   -   -
+    1031 TO     379    +   +   A   A   A   +
+  ~22955 TO   ~8327    A   A   A   A   A   A
+    9678 TO    4511    +   +   A   A   A   +
+    1888 TO    1431    -   -   -   -   -   -
+    1030 TO     378    +   +   A   A   A   +
+  ~22944 TO   ~8317    A   A   A   A   A   A
+    9996 TO    4510    +   +   A   A   A   +
+    2222 TO    1430    -   -   -   -   -   -
+    1029 TO     377    +   +   A   A   A   +
+  ~22934 TO   ~8307    A   A   A   A   A   A
+    9674 TO    4509    +   +   A   A   A   +
+    1884 TO    1429    -   -   -   -   -   -
+    1028 TO     376    +   +   A   A   A   +
+  ~22924 TO   ~8297    A   A   A   A   A   A
+    9995 TO    4508    +   +   A   A   A   +
+    2221 TO    1428    -   -   -   -   -   -
+    1027 TO     375    +   +   A   A   A   +
+  ~22914 TO   ~8287    A   A   A   A   A   A
+    9670 TO    4507    +   +   A   A   A   +
+    1880 TO    1427    -   -   -   -   -   -
+    1026 TO     374    +   +   A   A   A   +
+  ~22904 TO   ~8277    A   A   A   A   A   A
+    9994 TO    4506    +   +   A   A   A   +
+    2220 TO    1426    -   -   -   -   -   -
+    1025 TO     373    +   +   A   A   A   +
+  ~22894 TO   ~8267    A   A   A   A   A   A
+    9666 TO    4505    +   +   A   A   A   +
+    1876 TO    1128    -   -   -   -   -   -
+     725 TO     372    +   +   A   A   A   +
+  ~22882 TO   ~8257    A   A   A   A   A   A
+    9993 TO    4504    +   +   A   A   A   +
+    2219 TO    1424    -   -   -   -   -   -
+    1024 TO     371    +   +   A   A   A   +
+  ~22833 TO   ~8247    A   A   A   A   A   A
+    9663 TO    4503    +   +   A   A   A   +
+    1873 TO    1423    -   -   -   -   -   -
+     897 TO     370    +   +   A   A   A   +
+  ~22783 TO   ~8233    A   A   A   A   A   A
+    9992 TO    4502    +   +   A   A   A   +
+    2218 TO    1127    -   -   -   -   -   -
+     722 TO     369    +   +   A   A   A   +
+  ~22072 TO   ~8220    A   A   A   A   A   A
+    9653 TO    4501    +   +   A   A   A   +
+    1863 TO    1126    -   -   -   -   -   -
+     721 TO     368    +   +   A   A   A   +
+  ~22718 TO   ~8210    A   A   A   A   A   A
+    9991 TO    4500    +   +   A   A   A   +
+    2217 TO    1420    -   -   -   -   -   -
+     882 TO     367    +   +   A   A   A   +
+  ~22669 TO   ~8200    A   A   A   A   A   A
+    9955 TO    4499    +   +   A   A   A   +
+    2180 TO    1419    -   -   -   -   -   -
+    1009 TO     366    +   +   A   A   A   +
+  ~22621 TO   ~8190    A   A   A   A   A   A
+    9990 TO    4498    +   +   A   A   A   +
+    2216 TO    1122    -   -   -   -   -   -
+     718 TO     365    +   +   A   A   A   +
+  ~22383 TO   ~8180    A   A   A   A   A   A
+    9971 TO    4497    +   +   A   A   A   +
+    2196 TO    1417    -   -   -   -   -   -
+     994 TO     364    +   +   A   A   A   +
+  ~22373 TO   ~8170    A   A   A   A   A   A
+    9989 TO    4496    +   +   A   A   A   +
+    2215 TO    1416    -   -   -   -   -   -
+     993 TO     363    +   +   A   A   A   +
+  ~22362 TO   ~8160    A   A   A   A   A   A
+    9970 TO    4495    +   +   A   A   A   +
+    2195 TO    1415    -   -   -   -   -   -
+     992 TO     362    +   +   A   A   A   +
+  ~22352 TO   ~8150    A   A   A   A   A   A
+    9988 TO    4494    +   +   A   A   A   +
+    2214 TO    1414    -   -   -   -   -   -
+     991 TO     361    +   +   A   A   A   +
+  ~22342 TO   ~8140    A   A   A   A   A   A
+    9969 TO    4493    +   +   A   A   A   +
+    2194 TO    1413    -   -   -   -   -   -
+     990 TO     360    +   +   A   A   A   +
+  ~22332 TO   ~8130    A   A   A   A   A   A
+    9987 TO    4492    +   +   A   A   A   +
+    2213 TO    1412    -   -   -   -   -   -
+     989 TO     359    +   +   A   A   A   +
+  ~22322 TO   ~8120    A   A   A   A   A   A
+    9968 TO    4491    +   +   A   A   A   +
+    2193 TO    1411    -   -   -   -   -   -
+     988 TO     358    +   +   A   A   A   +
+  ~22556 TO   ~8110    A   A   A   A   A   A
+    9986 TO    4460    +   +   A   A   A   +
+    2212 TO    1119    -   -   -   -   -   -
+     710 TO     327    +   +   A   A   A   +
+  ~22546 TO   ~8100    A   A   A   A   A   A
+    9954 TO    4459    +   +   A   A   A   +
+    2179 TO    1409    -   -   -   -   -   -
+     987 TO     326    +   +   A   A   A   +
+  ~22497 TO   ~8090    A   A   A   A   A   A
+    9985 TO    4458    +   +   A   A   A   +
+    2211 TO    1408    -   -   -   -   -   -
+     867 TO     325    +   +   A   A   A   +
+  ~22447 TO   ~8070    A   A   A   A   A   A
+    9622 TO    4457    +   +   A   A   A   +
+    1832 TO    1118    -   -   -   -   -   -
+     690 TO     324    +   +   A   A   A   +
+  ~21915 TO   ~7911    A   A   A   A   A   A
+    9613 TO    4456    +   +   A   A   A   +
+    1694 TO    1117    -   -   -   -   -   -
+     689 TO    5652    +   +   A   A   A   +
+    5565               -   -   -   -   -   -
+    1200               +   +   A   A   A   +
+    1199               -   -   -   -   -   -
+  ~21863 TO   ~7874    A   A   A   A   A   A
+    9368 TO    4455    +   +   A   A   A   +
+    1579 TO    1405    -   -   -   -   -   -
+     656 TO     322    +   +   A   A   A   +
+  ~21859 TO   ~7822    A   A   A   A   A   A
+   10017 TO    4454    +   +   A   A   A   +
+    2243 TO    2012    -   -   -   -   -   -
+     655 TO     321    +   +   A   A   A   +
+  ~21825 TO   ~7826    A   A   A   A   A   A
+    8972 TO    4453    +   +   A   A   A   +
+    1180 TO    1114    -   -   -   -   -   -
+     350 TO     320    +   +   A   A   A   +
+    NULL                                    
+
+  CONSTRAINTS         U1  U2  U3  R1  R2  R3
+ 6                                          
+ 11      TO 31         A   A               A
